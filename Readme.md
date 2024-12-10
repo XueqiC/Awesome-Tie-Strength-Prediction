@@ -13,7 +13,7 @@ In our study, we first categorize mainstream understandings of tie strength into
 
 ## Run the code
 - To run the heurstic random forest experiments, please check the code in 'rf.sh'.
-- To run the MLP experiments, please check the code in 'mlo.sh', where MLP is with edge features and MLP2 is without edge features.
+- To run the MLP experiments, please check the code in 'mlp.sh', where MLP is with edge features and MLP2 is without edge features.
 - To run the GCN experiments, please check the code in 'gcn.sh'.
 - To run the GTN experiments, please check the code in 'tran.sh'.
 - `greedy.sh' is for the STC-greedy experiments, with the prediction results generated from this [STC-Greedy matlab code](https://bitbucket.org/ghentdatascience/stc-code-public/src/master/). 
