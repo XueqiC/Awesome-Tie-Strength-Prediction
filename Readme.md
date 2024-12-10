@@ -1,4 +1,4 @@
-# A Comprehensive Analysis of Social Tie Strength: Definitions, Prediction Methods, and Future Directions
+<h1 align="center"> A Comprehensive Analysis of Social Tie Strength: Definitions, Prediction Methods, and Future Directions
 
   <p align="center">
     <a href='https://arxiv.org/abs/2410.19214'>
