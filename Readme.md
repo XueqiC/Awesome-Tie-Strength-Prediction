@@ -1,8 +1,13 @@
 # A Comprehensive Analysis of Social Tie Strength: Definitions, Prediction Methods, and Future Directions
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/XueqiC/Awesome-Tie-Strength-Prediction) 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/XueqiC/Awesome-Tie-Strength-Prediction/blob/main/LICENSE)
-![](https://img.shields.io/badge/PRs-Welcome-red) 
+  <p align="center">
+    <a href='https://arxiv.org/abs/2410.19214'>
+      <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'> </a>
+    <a href='https://github.com/XueqiC/Awesome-Tie-Strength-Prediction'>
+      <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=Google%20chrome&logoColor=blue' alt='Project Page'> </a>
+    <a href='https://github.com/XueqiC/Awesome-Tie-Strength-Prediction/blob/main/LICENSE/blob/main/LICENSE'>
+      <img src='https://img.shields.io/badge/License-MIT-green.svg' alt='MIT License'> </a>
+  </p>
 
 ## Introduction
 This is the code repository for the paper [A Comprehensive Analysis of Social Tie Strength: Definitions, Prediction Methods, and Future Directions](https://arxiv.org/abs/2410.19214).
