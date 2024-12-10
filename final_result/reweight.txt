@@ -1,0 +1,61 @@
+Setting I:
+CollegeMsg:
+mlp w/ E
+Total time: 2.31 seconds, #Strong: 0.11, test_acc: 0.898 $\pm$ 0.013, f1_macro: 0.788 $\pm$ 0.013, w0: 2.828 $\pm$ 0.002, w1: 16.898 $\pm$ 0.094, w2: 2.113 $\pm$ 0.116, w3: 14.937 $\pm$ 1.291
+mlp w/o E
+Total time: 2.06 seconds, #Strong: 0.11, test_acc: 0.853 $\pm$ 0.057, f1_macro: 0.482 $\pm$ 0.015, w0: 2.827 $\pm$ 0.002, w1: 16.872 $\pm$ 0.076, w2: 4.278 $\pm$ 0.063, w3: 1.621 $\pm$ 2.293
+gcn:
+Total time: 3.51 seconds, #Strong: 0.11, test_acc: 0.908 $\pm$ 0.011, f1_macro: 0.761 $\pm$ 0.038, w0: 2.829 $\pm$ 0.001, w1: 16.880 $\pm$ 0.081, w2: 2.581 $\pm$ 0.452, w3: 20.228 $\pm$ 7.299
+GTN:
+Total time: 3.28 seconds, #Strong: 0.11, test_acc: 0.838 $\pm$ 0.040, f1_macro: 0.502 $\pm$ 0.021, w0: 2.827 $\pm$ 0.002, w1: 16.830 $\pm$ 0.046, w2: 4.175 $\pm$ 0.104, w3: 10.061 $\pm$ 5.971
+Twitter:
+mlp w/ E
+Total time: 10.18 seconds, #Strong: 0.04, test_acc: 0.971 $\pm$ 0.008, f1_macro: 0.718 $\pm$ 0.103, w0: 0.049 $\pm$ 0.000, w1: 3.192 $\pm$ 0.000, w2: 0.130 $\pm$ 0.022, w3: 2.752 $\pm$ 0.840
+mlp w/o E
+Total time: 9.82 seconds, #Strong: 0.04, test_acc: 0.959 $\pm$ 0.001, f1_macro: 0.492 $\pm$ 0.002, w0: 0.049 $\pm$ 0.000, w1: 3.192 $\pm$ 0.000, w2: 0.173 $\pm$ 0.001, w3: 0.209 $\pm$ 0.200
+gcn:
+Total time: 27.76 seconds, #Strong: 0.04, test_acc: 0.954 $\pm$ 0.009, f1_macro: 0.504 $\pm$ 0.016, w0: 0.049 $\pm$ 0.000, w1: 3.192 $\pm$ 0.001, w2: 0.172 $\pm$ 0.002, w3: 0.704 $\pm$ 0.781
+GTN:
+Total time: 13.75 seconds, #Strong: 0.04, test_acc: 0.899 $\pm$ 0.051, f1_macro: 0.503 $\pm$ 0.014, w0: 0.049 $\pm$ 0.000, w1: 3.191 $\pm$ 0.001, w2: 0.165 $\pm$ 0.006, w3: 0.310 $\pm$ 0.056
+
+Setting II:
+CollegeMsg:
+mlp w/ E
+Total time: 3.54 seconds, #Strong: 0.11, test_acc: 0.820 $\pm$ 0.027, f1_macro: 0.709 $\pm$ 0.027, w0: 2.831 $\pm$ 0.002, w1: 16.977 $\pm$ 0.022, w2: 1.734 $\pm$ 0.089, w3: 11.321 $\pm$ 0.759
+mlp w/o E
+Total time: 3.21 seconds, #Strong: 0.11, test_acc: 0.878 $\pm$ 0.022, f1_macro: 0.479 $\pm$ 0.010, w0: 2.831 $\pm$ 0.004, w1: 16.955 $\pm$ 0.018, w2: 4.332 $\pm$ 0.007, w3: 1.505 $\pm$ 2.129
+GCN:
+Total time: 5.11 seconds, #Strong: 0.11, test_acc: 0.859 $\pm$ 0.086, f1_macro: 0.749 $\pm$ 0.082, w0: 2.829 $\pm$ 0.004, w1: 16.922 $\pm$ 0.048, w2: 2.125 $\pm$ 0.427, w3: 14.781 $\pm$ 3.959
+GTN:
+Total time: 4.46 seconds, #Strong: 0.11, test_acc: 0.893 $\pm$ 0.001, f1_macro: 0.473 $\pm$ 0.001, w0: 2.827 $\pm$ 0.004, w1: 16.921 $\pm$ 0.046, w2: 4.329 $\pm$ 0.008, w3: 1.044 $\pm$ 1.476
+Twitter:
+mlp w/ E
+Total time: 76.68 seconds, #Strong: 0.04, test_acc: 0.967 $\pm$ 0.004, f1_macro: 0.640 $\pm$ 0.083, w0: 0.049 $\pm$ 0.000, w1: 3.192 $\pm$ 0.001, w2: 0.146 $\pm$ 0.016, w3: 4.288 $\pm$ 1.805
+mlp w/o E
+Total time: 42.35 seconds, #Strong: 0.04, test_acc: 0.935 $\pm$ 0.037, f1_macro: 0.492 $\pm$ 0.004, w0: 0.049 $\pm$ 0.000, w1: 3.192 $\pm$ 0.000, w2: 0.173 $\pm$ 0.001, w3: 0.061 $\pm$ 0.087
+GCN:
+Total time: 63.85 seconds, #Strong: 0.04, test_acc: 0.960 $\pm$ 0.000, f1_macro: 0.491 $\pm$ 0.002, w0: 0.049 $\pm$ 0.000, w1: 3.192 $\pm$ 0.001, w2: 0.173 $\pm$ 0.000, w3: 1.220 $\pm$ 0.874
+GTN
+Total time: 48.21 seconds, #Strong: 0.04, test_acc: 0.915 $\pm$ 0.054, f1_macro: 0.493 $\pm$ 0.001, w0: 0.049 $\pm$ 0.000, w1: 3.192 $\pm$ 0.001, w2: 0.171 $\pm$ 0.003, w3: 0.156 $\pm$ 0.038
+
+
+Balanced hub nodes:
+CollegeMsg
+mlp w/ E
+Total time: 8.08 seconds, #Strong: 0.11, test_acc: 0.908 $\pm$ 0.015, f1_macro: 0.798 $\pm$ 0.014, w0: 2.828 $\pm$ 0.006, w1: 16.918 $\pm$ 0.052, w2: 2.224 $\pm$ 0.157, w3: 16.330 $\pm$ 1.879
+mlp w/o E
+Total time: 9.73 seconds, #Strong: 0.11, test_acc: 0.870 $\pm$ 0.022, f1_macro: 0.490 $\pm$ 0.014, w0: 2.824 $\pm$ 0.006, w1: 16.881 $\pm$ 0.086, w2: 4.299 $\pm$ 0.030, w3: 4.532 $\pm$ 0.914
+GCN:
+Total time: 11.98 seconds, #Strong: 0.11, test_acc: 0.887 $\pm$ 0.016, f1_macro: 0.777 $\pm$ 0.016, w0: 2.814 $\pm$ 0.015, w1: 16.840 $\pm$ 0.192, w2: 2.093 $\pm$ 0.128, w3: 13.897 $\pm$ 0.945
+GTN:
+Total time: 12.00 seconds, #Strong: 0.11, test_acc: 0.825 $\pm$ 0.050, f1_macro: 0.503 $\pm$ 0.022, w0: 2.830 $\pm$ 0.004, w1: 16.939 $\pm$ 0.061, w2: 4.166 $\pm$ 0.126, w3: 3.933 $\pm$ 2.783
+Twitter:
+mlp w/ E
+Total time: 49.98 seconds, #Strong: 0.04, test_acc: 0.964 $\pm$ 0.003, f1_macro: 0.581 $\pm$ 0.062, w0: 0.049 $\pm$ 0.000, w1: 3.192 $\pm$ 0.000, w2: 0.156 $\pm$ 0.014, w3: 3.325 $\pm$ 1.061
+mlp w/o E
+Total time: 78.71 seconds, #Strong: 0.04, test_acc: 0.953 $\pm$ 0.010, f1_macro: 0.493 $\pm$ 0.005, w0: 0.049 $\pm$ 0.000, w1: 3.192 $\pm$ 0.001, w2: 0.173 $\pm$ 0.000, w3: 0.059 $\pm$ 0.083
+GCN:
+Total time: 74.08 seconds, #Strong: 0.04, test_acc: 0.959 $\pm$ 0.001, f1_macro: 0.492 $\pm$ 0.002, w0: 0.049 $\pm$ 0.000, w1: 3.191 $\pm$ 0.002, w2: 0.173 $\pm$ 0.000, w3: 0.424 $\pm$ 0.042
+GTN:
+Total time: 52.77 seconds, #Strong: 0.04, test_acc: 0.949 $\pm$ 0.005, f1_macro: 0.496 $\pm$ 0.003, w0: 0.049 $\pm$ 0.000, w1: 3.192 $\pm$ 0.000, w2: 0.173 $\pm$ 0.000, w3: 0.181 $\pm$ 0.033
+

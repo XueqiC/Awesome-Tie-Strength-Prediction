@@ -1,0 +1,53 @@
+ba:1
+Total time: 6.15 seconds, #Strong: 0.75, test_acc: 0.640 $\pm$ 0.099, f1_macro: 0.478 $\pm$ 0.003, w0: 2.254 $\pm$ 0.001, w1: 3.910 $\pm$ 0.001, w2: 3.514 $\pm$ 0.120, w3: 3.503 $\pm$ 0.032
+Total time: 6.18 seconds, #Strong: 0.21, test_acc: 0.789 $\pm$ 0.005, f1_macro: 0.450 $\pm$ 0.008, w0: 2.206 $\pm$ 0.000, w1: 8.423 $\pm$ 0.001, w2: 3.487 $\pm$ 0.002, w3: 3.801 $\pm$ 0.279
+Total time: 6.21 seconds, #Strong: 0.17, test_acc: 0.825 $\pm$ 0.003, f1_macro: 0.456 $\pm$ 0.004, w0: 2.415 $\pm$ 0.000, w1: 8.644 $\pm$ 0.001, w2: 3.489 $\pm$ 0.001, w3: 3.947 $\pm$ 0.666
+Total time: 6.09 seconds, #Strong: 0.11, test_acc: 0.886 $\pm$ 0.003, f1_macro: 0.472 $\pm$ 0.002, w0: 2.836 $\pm$ 0.001, w1: 8.707 $\pm$ 0.004, w2: 3.489 $\pm$ 0.001, w3: 3.637 $\pm$ 1.844
+Total time: 6.56 seconds, #Strong: 0.45, test_acc: 0.507 $\pm$ 0.020, f1_macro: 0.486 $\pm$ 0.018, w0: 2.154 $\pm$ 0.000, w1: 5.118 $\pm$ 0.001, w2: 3.458 $\pm$ 0.025, w3: 3.547 $\pm$ 0.072
+Total time: 6.70 seconds, #Strong: 0.26, test_acc: 0.650 $\pm$ 0.057, f1_macro: 0.481 $\pm$ 0.025, w0: 2.461 $\pm$ 0.000, w1: 6.419 $\pm$ 0.005, w2: 3.523 $\pm$ 0.050, w3: 3.264 $\pm$ 0.184
+Total time: 6.80 seconds, #Strong: 0.23, test_acc: 0.666 $\pm$ 0.061, f1_macro: 0.485 $\pm$ 0.023, w0: 2.556 $\pm$ 0.000, w1: 6.541 $\pm$ 0.001, w2: 3.544 $\pm$ 0.041, w3: 3.207 $\pm$ 0.124
+==============
+msg:1
+Total time: 3.48 seconds, #Strong: 0.47, test_acc: 0.552 $\pm$ 0.007, f1_macro: 0.540 $\pm$ 0.012, w0: 1.834 $\pm$ 0.001, w1: 7.163 $\pm$ 0.032, w2: 3.635 $\pm$ 0.145, w3: 5.299 $\pm$ 0.309
+Total time: 3.04 seconds, #Strong: 0.24, test_acc: 0.757 $\pm$ 0.000, f1_macro: 0.433 $\pm$ 0.003, w0: 1.827 $\pm$ 0.000, w1: 12.108 $\pm$ 0.047, w2: 4.319 $\pm$ 0.019, w3: 1.713 $\pm$ 2.423
+Total time: 3.01 seconds, #Strong: 0.21, test_acc: 0.789 $\pm$ 0.000, f1_macro: 0.441 $\pm$ 0.000, w0: 2.128 $\pm$ 0.001, w1: 12.520 $\pm$ 0.057, w2: 4.320 $\pm$ 0.017, w3: 0.000 $\pm$ 0.000
+Total time: 3.08 seconds, #Strong: 0.11, test_acc: 0.894 $\pm$ 0.001, f1_macro: 0.472 $\pm$ 0.000, w0: 2.829 $\pm$ 0.001, w1: 16.869 $\pm$ 0.074, w2: 4.320 $\pm$ 0.017, w3: 0.000 $\pm$ 0.000
+Total time: 3.74 seconds, #Strong: 0.36, test_acc: 0.517 $\pm$ 0.040, f1_macro: 0.487 $\pm$ 0.016, w0: 1.889 $\pm$ 0.001, w1: 8.606 $\pm$ 0.044, w2: 4.791 $\pm$ 0.519, w3: 3.838 $\pm$ 0.457
+Total time: 3.18 seconds, #Strong: 0.21, test_acc: 0.794 $\pm$ 0.001, f1_macro: 0.443 $\pm$ 0.000, w0: 2.220 $\pm$ 0.001, w1: 12.429 $\pm$ 0.057, w2: 4.320 $\pm$ 0.017, w3: 0.000 $\pm$ 0.000
+Total time: 3.17 seconds, #Strong: 0.17, test_acc: 0.830 $\pm$ 0.001, f1_macro: 0.453 $\pm$ 0.000, w0: 2.422 $\pm$ 0.001, w1: 13.562 $\pm$ 0.060, w2: 4.320 $\pm$ 0.017, w3: 0.000 $\pm$ 0.000
+==============
+tw:1
+Total time: 16.20 seconds, #Strong: 0.24, test_acc: 0.695 $\pm$ 0.006, f1_macro: 0.490 $\pm$ 0.005, w0: 0.062 $\pm$ 0.000, w1: 0.520 $\pm$ 0.000, w2: 0.175 $\pm$ 0.001, w3: 0.157 $\pm$ 0.010
+Total time: 13.90 seconds, #Strong: 0.07, test_acc: 0.931 $\pm$ 0.000, f1_macro: 0.482 $\pm$ 0.000, w0: 0.000 $\pm$ 0.000, w1: 2.498 $\pm$ 0.001, w2: 0.173 $\pm$ 0.000, w3: 0.000 $\pm$ 0.000
+Total time: 13.48 seconds, #Strong: 0.04, test_acc: 0.960 $\pm$ 0.000, f1_macro: 0.490 $\pm$ 0.000, w0: 0.049 $\pm$ 0.000, w1: 3.191 $\pm$ 0.001, w2: 0.173 $\pm$ 0.000, w3: 0.000 $\pm$ 0.000
+Total time: 15.04 seconds, #Strong: 0.15, test_acc: 0.845 $\pm$ 0.000, f1_macro: 0.458 $\pm$ 0.000, w0: 0.091 $\pm$ 0.000, w1: 0.623 $\pm$ 0.000, w2: 0.173 $\pm$ 0.000, w3: 0.000 $\pm$ 0.000
+Total time: 17.36 seconds, #Strong: 0.27, test_acc: 0.624 $\pm$ 0.047, f1_macro: 0.491 $\pm$ 0.010, w0: 0.003 $\pm$ 0.000, w1: 0.644 $\pm$ 0.000, w2: 0.174 $\pm$ 0.005, w3: 0.166 $\pm$ 0.012
+Total time: 16.80 seconds, #Strong: 0.60, test_acc: 0.558 $\pm$ 0.031, f1_macro: 0.522 $\pm$ 0.018, w0: 0.113 $\pm$ 0.000, w1: 0.213 $\pm$ 0.000, w2: 0.208 $\pm$ 0.031, w3: 0.154 $\pm$ 0.018
+Total time: 16.42 seconds, #Strong: 0.13, test_acc: 0.841 $\pm$ 0.023, f1_macro: 0.481 $\pm$ 0.014, w0: 0.089 $\pm$ 0.000, w1: 0.724 $\pm$ 0.000, w2: 0.174 $\pm$ 0.001, w3: 0.106 $\pm$ 0.075
+=====================
+ba
+Total time: 8.19 seconds, #Strong: 0.75, test_acc: 0.650 $\pm$ 0.108, f1_macro: 0.460 $\pm$ 0.024, w0: 2.254 $\pm$ 0.001, w1: 3.911 $\pm$ 0.002, w2: 2.408 $\pm$ 1.703, w3: 3.464 $\pm$ 0.023
+Total time: 8.33 seconds, #Strong: 0.21, test_acc: 0.760 $\pm$ 0.022, f1_macro: 0.473 $\pm$ 0.019, w0: 2.206 $\pm$ 0.000, w1: 8.422 $\pm$ 0.001, w2: 3.485 $\pm$ 0.005, w3: 3.671 $\pm$ 0.223
+Total time: 7.64 seconds, #Strong: 0.17, test_acc: 0.805 $\pm$ 0.025, f1_macro: 0.472 $\pm$ 0.018, w0: 2.415 $\pm$ 0.001, w1: 8.640 $\pm$ 0.006, w2: 3.484 $\pm$ 0.001, w3: 3.745 $\pm$ 0.189
+Total time: 7.85 seconds, #Strong: 0.11, test_acc: 0.882 $\pm$ 0.007, f1_macro: 0.478 $\pm$ 0.008, w0: 2.835 $\pm$ 0.001, w1: 8.708 $\pm$ 0.004, w2: 3.484 $\pm$ 0.002, w3: 2.589 $\pm$ 1.832
+Total time: 8.43 seconds, #Strong: 0.45, test_acc: 0.495 $\pm$ 0.034, f1_macro: 0.452 $\pm$ 0.013, w0: 2.154 $\pm$ 0.001, w1: 5.118 $\pm$ 0.003, w2: 3.523 $\pm$ 0.041, w3: 3.466 $\pm$ 0.017
+Total time: 7.62 seconds, #Strong: 0.26, test_acc: 0.712 $\pm$ 0.021, f1_macro: 0.472 $\pm$ 0.037, w0: 2.461 $\pm$ 0.001, w1: 6.426 $\pm$ 0.006, w2: 3.499 $\pm$ 0.008, w3: 3.069 $\pm$ 0.431
+Total time: 8.03 seconds, #Strong: 0.23, test_acc: 0.736 $\pm$ 0.021, f1_macro: 0.480 $\pm$ 0.036, w0: 2.556 $\pm$ 0.001, w1: 6.544 $\pm$ 0.005, w2: 3.503 $\pm$ 0.015, w3: 3.014 $\pm$ 0.406
+==============
+msg:1
+Total time: 5.66 seconds, #Strong: 0.47, test_acc: 0.511 $\pm$ 0.028, f1_macro: 0.426 $\pm$ 0.064, w0: 1.832 $\pm$ 0.007, w1: 7.179 $\pm$ 0.018, w2: 4.150 $\pm$ 0.847, w3: 2.959 $\pm$ 2.107
+Total time: 5.24 seconds, #Strong: 0.24, test_acc: 0.758 $\pm$ 0.001, f1_macro: 0.432 $\pm$ 0.002, w0: 1.827 $\pm$ 0.002, w1: 12.124 $\pm$ 0.024, w2: 4.322 $\pm$ 0.018, w3: 3.542 $\pm$ 5.009
+Total time: 5.26 seconds, #Strong: 0.21, test_acc: 0.789 $\pm$ 0.001, f1_macro: 0.441 $\pm$ 0.000, w0: 2.125 $\pm$ 0.005, w1: 12.540 $\pm$ 0.025, w2: 4.324 $\pm$ 0.015, w3: 0.000 $\pm$ 0.000
+Total time: 5.34 seconds, #Strong: 0.11, test_acc: 0.894 $\pm$ 0.000, f1_macro: 0.472 $\pm$ 0.000, w0: 2.826 $\pm$ 0.006, w1: 16.915 $\pm$ 0.046, w2: 4.324 $\pm$ 0.015, w3: 0.000 $\pm$ 0.000
+Total time: 5.89 seconds, #Strong: 0.36, test_acc: 0.588 $\pm$ 0.045, f1_macro: 0.450 $\pm$ 0.045, w0: 1.892 $\pm$ 0.003, w1: 8.614 $\pm$ 0.026, w2: 4.250 $\pm$ 0.136, w3: 2.941 $\pm$ 2.093
+Total time: 5.75 seconds, #Strong: 0.21, test_acc: 0.776 $\pm$ 0.026, f1_macro: 0.456 $\pm$ 0.019, w0: 2.220 $\pm$ 0.004, w1: 12.467 $\pm$ 0.043, w2: 4.354 $\pm$ 0.029, w3: 1.128 $\pm$ 1.595
+Total time: 5.38 seconds, #Strong: 0.17, test_acc: 0.830 $\pm$ 0.000, f1_macro: 0.453 $\pm$ 0.000, w0: 2.419 $\pm$ 0.007, w1: 13.598 $\pm$ 0.039, w2: 4.324 $\pm$ 0.015, w3: 0.000 $\pm$ 0.000
+==============
+tw:1
+Total time: 48.38 seconds, #Strong: 0.24, test_acc: 0.743 $\pm$ 0.011, f1_macro: 0.450 $\pm$ 0.013, w0: 0.062 $\pm$ 0.000, w1: 0.520 $\pm$ 0.000, w2: 0.173 $\pm$ 0.000, w3: 0.123 $\pm$ 0.087
+Total time: 42.28 seconds, #Strong: 0.07, test_acc: 0.931 $\pm$ 0.000, f1_macro: 0.482 $\pm$ 0.000, w0: 0.000 $\pm$ 0.000, w1: 2.499 $\pm$ 0.000, w2: 0.173 $\pm$ 0.000, w3: 0.010 $\pm$ 0.014
+Total time: 42.86 seconds, #Strong: 0.04, test_acc: 0.960 $\pm$ 0.000, f1_macro: 0.490 $\pm$ 0.000, w0: 0.049 $\pm$ 0.000, w1: 3.192 $\pm$ 0.000, w2: 0.173 $\pm$ 0.000, w3: 0.010 $\pm$ 0.015
+Total time: 48.46 seconds, #Strong: 0.15, test_acc: 0.803 $\pm$ 0.060, f1_macro: 0.472 $\pm$ 0.020, w0: 0.091 $\pm$ 0.000, w1: 0.623 $\pm$ 0.000, w2: 0.174 $\pm$ 0.001, w3: 0.055 $\pm$ 0.078
+Total time: 49.65 seconds, #Strong: 0.27, test_acc: 0.685 $\pm$ 0.047, f1_macro: 0.467 $\pm$ 0.033, w0: 0.003 $\pm$ 0.000, w1: 0.644 $\pm$ 0.000, w2: 0.169 $\pm$ 0.003, w3: 0.136 $\pm$ 0.097
+Total time: 57.09 seconds, #Strong: 0.60, test_acc: 0.524 $\pm$ 0.074, f1_macro: 0.430 $\pm$ 0.072, w0: 0.113 $\pm$ 0.000, w1: 0.213 $\pm$ 0.000, w2: 0.123 $\pm$ 0.088, w3: 0.173 $\pm$ 0.017
+Total time: 44.06 seconds, #Strong: 0.13, test_acc: 0.853 $\pm$ 0.020, f1_macro: 0.473 $\pm$ 0.012, w0: 0.089 $\pm$ 0.000, w1: 0.724 $\pm$ 0.000, w2: 0.173 $\pm$ 0.000, w3: 0.072 $\pm$ 0.080
