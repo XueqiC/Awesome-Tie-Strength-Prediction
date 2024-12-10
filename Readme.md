@@ -1,7 +1,7 @@
 # A Comprehensive Analysis of Social Tie Strength: Definitions, Prediction Methods, and Future Directions
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/XueqiC/tie_strength_prediction) 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/XueqiC/tie_strength_prediction/blob/main/LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/XueqiC/Awesome-Tie-Strength-Prediction) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/XueqiC/Awesome-Tie-Strength-Prediction/blob/main/LICENSE)
 ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 ## Introduction
