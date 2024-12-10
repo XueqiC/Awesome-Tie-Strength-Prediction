@@ -5,7 +5,7 @@
       <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'> </a>
     <a href='https://github.com/XueqiC/Awesome-Tie-Strength-Prediction'>
       <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=Google%20chrome&logoColor=blue' alt='Project Page'> </a>
-    <a href='https://github.com/XueqiC/Awesome-Tie-Strength-Prediction/blob/main/LICENSE/blob/main/LICENSE'>
+    <a href='https://github.com/XueqiC/Awesome-Tie-Strength-Prediction/blob/main/LICENSE'>
       <img src='https://img.shields.io/badge/License-MIT-green.svg' alt='MIT License'> </a>
   </p>
 
