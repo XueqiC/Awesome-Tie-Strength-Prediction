@@ -1,4 +1,4 @@
-<h1 align="center"> A Comprehensive Analysis of Social Tie Strength: <br> Definitions, Prediction Methods, and Future Directions</h1>
+<h1 align="center"> BTS: A Comprehensive Benchmark for Tie Strength Prediction </h1>
 
   <p align="center">
     <a href='https://arxiv.org/abs/2410.19214'>
@@ -10,11 +10,11 @@
   </p>
 
 ## Introduction
-This is the code repository for the paper [A Comprehensive Analysis of Social Tie Strength: Definitions, Prediction Methods, and Future Directions](https://arxiv.org/abs/2410.19214).
+This is the code repository for the paper [BTS: A Comprehensive Benchmark for Tie Strength Prediction].
 
-The rapid growth of online social networks has underscored the importance of understanding the intensity of user relationships, referred to as ``tie strength." Over the past few decades, extensive efforts have been made to assess tie strength in networks. However, the lack of ground-truth tie strength labels and the differing perspectives on tie strength among researchers have complicated the development of effective prediction methods for real-world applications. 
-
-In our study, we first categorize mainstream understandings of tie strength into seven standardized definitions and verify their effectiveness by investigating the class distributions and correlations across these definitions. We also draw key insights into tie resilience from the perspective of tie dissolution that (1) stronger ties are more resilient than weaker ones, and (2) this tie resiliency ratio increases as the network evolves. We then conduct extensive experiments to evaluate existing tie strength prediction methods under these definitions, revealing that (1) neural network methods capable of learning from semantic features hold great potential for high performance, (2) models struggle under definitions that offer limited understandings of tie strength in the network, (3) existing models face imbalance issues that cannot be addressed by traditional quantity imbalance techniques, and (4) different definitions of tie strength allow for the inference of not only the current state but also the future state of a tie. Building on these findings, we propose strategies to improve existing methods and suggest several promising directions for future research.
+The rapid growth of online social networks has highlighted the importance of understanding tie strength in user relationships. Despite prior efforts to assess tie strength (TS) in networks, the typically inherent lack of ground-truth labels, varying researcher perspectives, and limited performance of existing models hinder effective prediction for real-world applications.
+To address this gap, we introduce \textbf{BTS}, a comprehensive \textbf{B}enchmark for \textbf{T}ie \textbf{S}trength prediction, aiming to establish a standardized foundation for evaluating and advancing TS prediction methodologies. Specifically, our contributions are: \textbf{TS Pseudo-Label Techniques} - 
+we categorize TS into seven standardized pseduo-labeling techniques based on prior literature; \textbf{TS Dataset Collection} – we present a well-curated collection of three social networks and perform data analysis by investigating the class distributions and correlations across the generated pseudo-labels; \textbf{TS Pseudo-Label Evaluation Framework} - we propose a standardized framework to evaluate the pseudo-label quality from the perspective of tie resilience; \textbf{Benchmarking} - we evaluate existing tie strength prediction model performance using the BTS dataset collection, exploring the effects of different experiment settings, models, and evaluation criteria on the results. Furthermore, we derive key insights to enhance existing methods and shed light on promising directions for future research in this domain.
 
 ## Run the code
 - To run the heurstic random forest experiments, please check the code in 'rf.sh'.
@@ -27,14 +27,6 @@ In our study, we first categorize mainstream understandings of tie strength into
 MIT License
 
 ## Contact 
-Please feel free to email me (xueqi.cheng [AT] vanderbilt.edu) for any questions about this work.
+Please feel free to email me (xueqi.cheng [AT] vanderbilt.edu) for any question about this work.
 
-## Citation
-```
-@article{cheng2024comprehensive,
-  title     = {A Comprehensive Analysis of Social Tie Strength: Definitions, Prediction Methods, and Future Directions},
-  author    = {Cheng, Xueqi and Yang, Catherine and Zhao, Yuying and Wang, Yu and Karimi, Hamid and Derr, Tyler},
-  journal   = {arXiv preprint arXiv:2410.19214},
-  year      = {2024}
-}
 ```
