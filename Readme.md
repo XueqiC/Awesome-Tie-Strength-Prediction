@@ -12,7 +12,7 @@
 ## Introduction
 # BTS: A Comprehensive Benchmark for Tie Strength Prediction
 
-This is the code repository for the paper **[BTS: A Comprehensive Benchmark for Tie Strength Prediction]**.
+This is the code repository for the paper **BTS: A Comprehensive Benchmark for Tie Strength Prediction**.
 
 The rapid growth of online social networks has highlighted the importance of understanding tie strength in user relationships. Despite prior efforts to assess tie strength (TS) in networks, the typically inherent lack of ground-truth labels, varying researcher perspectives, and limited performance of existing models hinder effective prediction for real-world applications.
 
