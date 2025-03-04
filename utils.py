@@ -707,13 +707,9 @@ def load_data(args):
         data = process(sd, setting, thre)
         
     elif dataset == 'tw':
-        # data = np.load('./dataset/tw/wedge2.npy')
-        # data = np.load('./dataset/tw/24_wedge2.npy')
-        data = np.load('./dataset/tw/27_wedge2.npy')
+        data = np.load('./dataset/tw/weight_edge.npy')
         
-        # edge_attr = np.load('./dataset/tw/edge_emb.npy')
-        # edge_attr = np.load('./dataset/tw/24_edge_emb.npy')
-        edge_attr = np.load('./dataset/tw/27_emb.npy')
+        edge_attr = np.load('./dataset/tw/emb.npy')
         edge_attr = torch.tensor(edge_attr, dtype=torch.float)
         
         edge_index = torch.tensor(data[:2], dtype=torch.long)
