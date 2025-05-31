@@ -5,29 +5,25 @@ output_file="mlp.txt"
 # Clear the previous content of the output file if it exists
 >> $output_file
 
+## Definition I
 # python main.py --dataset='ba' --setting=1 --model=MLP --n_emb=32 --n_hidden=1024 --n_out=16 >> $output_file
-
+## Definition II and III (global threshold)
 # python main.py --dataset='ba' --setting=2 --model=MLP --thre=5 --n_emb=32 --n_hidden=1024 --n_out=16 >> $output_file
 # python main.py --dataset='ba' --setting=3 --model=MLP --thre=5 --n_emb=32 --n_hidden=1024 --n_out=16 >> $output_file
-
+## Definition IV to VII (local threshold)
 # for setting in {4..7}
 # do
 #     python main.py --dataset='ba' --setting=$setting --model=MLP --thre=0.2 --n_emb=32 --n_hidden=1024 --n_out=16 >> $output_file
 
 # done
 
-
 ############################################################################################################
 # # # Constants
 tw="2e7"
 
-# # Setting 1 (specific case without threshold)
 python main.py --dataset='msg' --setting=1 --model=MLP --n_emb=32 --n_hidden=64 --n_out=16 >> $output_file
-
-# Settings 2 (specific thresholds)
 python main.py --dataset='msg' --setting=2 --model=MLP --thre=5 --tw=$tw --n_emb=32 --n_hidden=64 --n_out=16 >> $output_file
 python main.py --dataset='msg' --setting=3 --model=MLP --thre=5 --tw=$tw --n_emb=32 --n_hidden=64 --n_out=16 >> $output_file
-
 for setting in {4..7}
 do
     python main.py --dataset='msg' --setting=$setting --model=MLP --thre=0.2 --tw=$tw --n_emb=32 --n_hidden=64 --n_out=16 >> $output_file
@@ -35,13 +31,9 @@ done
 
 # tw="2e7"
 
-# # Setting 1 (specific case without threshold)
 # python main.py --dataset='msg' --setting=1 --model=MLP2 --n_emb=32 --n_hidden=64 --n_out=16 >> $output_file
-
-# # Settings 2 (specific thresholds)
 # python main.py --dataset='msg' --setting=2 --model=MLP2 --thre=5 --tw=$tw --n_emb=32 --n_hidden=64 --n_out=16 >> $output_file
 # python main.py --dataset='msg' --setting=3 --model=MLP2 --thre=5 --tw=$tw --n_emb=32 --n_hidden=64 --n_out=16 >> $output_file
-
 # for setting in {4..7}
 # do
 #     python main.py --dataset='msg' --setting=$setting --model=MLP2 --thre=0.2 --tw=$tw --n_emb=32 --n_hidden=64 --n_out=16 >> $output_file
